@@ -1,0 +1,8 @@
+P001,Move Free,box of 200 tablets,Schiff (USA),658.000
+P002,Glucosamine,box of 150 tablets,Schiff (USA),490.000
+P003,Glucosamine, box of 375 tablets,Kirkland (USA),583.000
+P004,Fish Oil,box of 400 tablets,Kirkland (USA),389.000
+P005,Glucosamine,box of 240 tablets,Puritan's Pride (USA),494.000
+P006,Glucosamine,box of 180 tablets,Blackmores (Australia),539.000
+P007,Glucosamine,box of 360 tablets,Orihiro (Japan),299.000
+P008,Glucosamine & Fish Oil,box of 90 capsules,Blackmores (Australia),430.000
