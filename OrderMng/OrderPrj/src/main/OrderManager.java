@@ -22,6 +22,7 @@ public class OrderManager {
         Menu mnu = new Menu();
         mnu.add(" Product: Print");
         mnu.add(" Customer: Print");
+        
         mnu.add(" Customer: Search");
         mnu.add(" Customer: Add");
         mnu.add(" Customer: Update");
